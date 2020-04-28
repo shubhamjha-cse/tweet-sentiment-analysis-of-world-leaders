@@ -46,3 +46,9 @@ pip install textblob
 5. Python Data visualisation tools
 
 **Note : If you like it, please leave a star.**
+
+
+## License
+***
+
+This is licensed under GNU v3.0
